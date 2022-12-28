@@ -1,6 +1,4 @@
-                       
-
-                            local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/strongprime/wdabnudbawydbwahudbwoayudbwadwadwadwadawdwaddddddddddwaddddwadwadad/main/WAIJDBWAUHDBWYAGDVAWYGVDYFGWAVDTYFWAVDWADWADAWDA"))()
+                                local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/aWXiZJue", true))()
                             Aiming.TeamCheck(false)
                              
                             
